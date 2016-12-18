@@ -6,6 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/cwalls/Projects/lotto-cloud
+          uri: https://github.com/habuma/lotto-cloud
           search-paths:
-            - 
+            - config-repo
