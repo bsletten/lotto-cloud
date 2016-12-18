@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: multi-ticket-picker
+  cloud:
+    config:
+      uri: http://localhost:8888

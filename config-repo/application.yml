@@ -1,6 +1,5 @@
-lotto:
-  pick-count: 6
-  max-number: 56
+server:
+  port: 0
 
 eureka:
   client:

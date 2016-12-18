@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+multi.picker:
+  ticket-count: 5
