@@ -1,3 +1,8 @@
 lotto:
   pick-count: 6
   max-number: 56
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

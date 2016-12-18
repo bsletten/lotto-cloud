@@ -8,4 +8,4 @@ spring:
         git:
           uri: file:///Users/cwalls/Projects/lotto-cloud
           search-paths:
-            - config-repo
+            - 
